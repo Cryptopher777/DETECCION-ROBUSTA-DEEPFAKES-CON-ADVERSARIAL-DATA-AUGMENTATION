@@ -25,5 +25,8 @@ Bajo un test de estrés progresivo (JPEG 70 + Ruido 5%):
 * Notebook con la ingesta (tf.data), entrenamiento A/B, test de estrés y análisis Grad-CAM.
 * Documento técnico estilo IEEE (5 páginas).
 * Diapositivas de la sustentación.
+### Modelos Entrenados e Historiales
+Debido a los límites de tamaño de archivo de GitHub, los pesos preentrenados (`.h5`) y los historiales de entrenamiento completos se encuentran alojados en el siguiente repositorio en la nube:
+**[Descargar Modelos Entrenados (Google Drive)](https://drive.google.com/drive/folders/15znYOxBoKR-887Am7T8BsRqjWI4d5lKC?usp=drive_link)**
 
 Dataset original utilizado: [140k Real and Fake Faces (Kaggle)](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces).
