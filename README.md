@@ -21,7 +21,7 @@ Bajo un test de estrés progresivo (JPEG 70 + Ruido 5%):
 * **Explicabilidad Visual (Grad-CAM):** Se corrigió el sesgo atencional, desplazando la activación de la red desde el fondo espurio hacia los ojos y boca del sujeto.
 * **Optimización Operativa:** AUC > 0.97 bajo estrés, con ajuste dinámico del umbral (Métrica de Youden) para responder a una matriz de pagos de ciberseguridad asimétrica.
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 * Notebook con la ingesta (tf.data), entrenamiento A/B, test de estrés y análisis Grad-CAM.
 * Documento técnico estilo IEEE (5 páginas).
 * Diapositivas de la sustentación.
