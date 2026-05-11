@@ -1,4 +1,4 @@
-# Detección Robusta de Deepfakes mediante Augmentation Adversarial 🛡️
+# Detección Robusta de Deepfakes mediante Augmentation Adversarial 
 
 Proyecto final para la asignatura **Redes Neuronales y Deep Learning** del Máster en Economía, Finanzas y Computación (UNIA).
 
